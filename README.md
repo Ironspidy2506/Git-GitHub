@@ -3,8 +3,8 @@
 Git is a **Version Control System** (VCS) that helps track changes in your code. It is:
 
 1. Popular
-2. Free and open-source
-3. Fast and scalable
+2. Free and Open-Source
+3. Fast and Scalable
 
 ---
 
